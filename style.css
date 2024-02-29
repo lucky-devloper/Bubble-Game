@@ -96,7 +96,7 @@ button{
     display: none;
 }
 
-@media (max-width:320px){
+@media (max-width:426px){
     .pannel{
         width: 100%;
         height: 96%;
